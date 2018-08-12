@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color">#212121</color>
+    <color name="score_color">#000000</color>
+    <color name="teamA_color">#80deea</color>
+    <color name="teamB_color">#FF5252</color>
+    <color name="reset_color">#b2ff59</color>
+    <color name="foul_color">#ff7043</color>
+</resources>
